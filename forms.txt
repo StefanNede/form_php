@@ -1,0 +1,12 @@
+from: Stefan
+ with email: email@email.com
+ The message is: Hello there
+
+from: someone
+ with email: someone@gmail.com
+ The message is: Message from me
+
+ from: yet another person
+ with email: hello@gmx.co.uk
+ The message is: HI!!!!
+
