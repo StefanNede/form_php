@@ -15,9 +15,11 @@ print <<<EOF
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Submitted by $name</title>
+            <link rel="stylesheet" href="style.css"></link>
         </head>
         <body>
             Thanks for submitting a form $name
+            <a href="index.php">go back to website</a>
         </body>
         </html>
     EOF;

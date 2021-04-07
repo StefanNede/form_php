@@ -35,3 +35,11 @@ textarea {
 .see_submissions {
   margin-bottom: 5vh;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+}
